@@ -1,4 +1,4 @@
-# Arquitectura
+# Arquitecturas
 
 ## XAMPP
 
